@@ -9,7 +9,7 @@ const Navbar = () => {
         <Box sx={{ display: "flex", alignItems: "center" }}>
           <QuizIcon sx={{ marginRight: 2, fontSize: 40 }} />
           <Typography variant="h4" component="div">
-            MCQ Game
+            Quiz Game
           </Typography>
         </Box>
       </Toolbar>
